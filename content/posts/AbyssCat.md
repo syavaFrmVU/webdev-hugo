@@ -43,4 +43,4 @@ featured_image = 'Abyssinian.jpg'
 воспитании, абиссинка не будет точить когти о мебель и кататься на шторах. Абиссинская кошка хорошо уживается с другими
 кошками в доме и собаками, отлично ладит с детьми.
 
-![poster1](https://SyavaFrmFU.github.io/webdev-hugo/Abyssinian1.jpg)
+![poster1](https://SyavaFrmVU.github.io/webdev-hugo/Abyssinian1.jpg)
